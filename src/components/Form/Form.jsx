@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { 
 	useState, 
 	useEffect,
@@ -74,6 +75,8 @@ const Form = () => {
 	}, [])
 
 
+
+
 	return (
 		<>
 			<div className="w-full max-w-xs px-6 pt-32 mx-auto xl:px-0">
@@ -120,8 +123,8 @@ const Form = () => {
 				)}
 
 				<div className="text-white pt-10 grid">
-					<div>Usuario: rick@rickandmortyapp.com</div>
-					<div>Contraseña: S0!henry</div>
+					<div>Usuario: alexisbalestre@hotmail.com</div>
+					<div>Contraseña: Alexis.123</div>
 				</div>
 			</div>
 		</>

@@ -38,27 +38,12 @@ const About = () => (
 						<span>Filtrar entra los personaje favoritos por género y/u ordenarlos de manera ascendento o descendente</span>
 					</div>
 					
+
 					<p>
-						En lo personal fué un gran desafío de programación y un profundo 
-						orgullo presentar un producto terminado usando una tecnología que 
-						desconocía previamente.
-					</p>
-					<p>
-						Si bien la API cuenta con un vasto número de personajes, ya que se 
-						trata de un ejercicio de habilidades de programación, se ha limitado 
-						a mostrar un máximo de 20 personajes.
-					</p>
-					<p>
-						Sin duda React estará presente en mis próximos proyectos.
-					</p>
-					<p>
-						- fitodac
+						La idea es utilizar React en mis proximos proyectos.
 					</p>
 
-					<div className="text-sm mt-8">
-						fitodac@gmail.com<br/>
-						<a href="//fitodac.com" target="_blank" rel="noreferrer">fitodac.com</a>
-					</div>
+
 				</div>
 			</div>
 		</div>

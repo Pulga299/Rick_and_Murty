@@ -10,7 +10,7 @@ const Footer = () => (
 				</div>
 
 				<div className="text-indigo-700 text-xs leading-none text-right">
-					Diseñado por <a href="//fitodac.com" target="_blank" rel="noreferrer" className="underline">@fitodac</a> con ❤️
+					Diseñado por <a href="https://www.linkedin.com/in/alexis-mart%C3%ADn-balestre" target="_blank" rel="noreferrer" className="underline">@alexisbalestre</a> 
 				</div>
 
 			</div>
