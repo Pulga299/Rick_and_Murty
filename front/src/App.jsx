@@ -72,7 +72,7 @@ function App() {
 	// Add all characters
 	const updateCharacters = num => {
 		clearAll()
-		return fetch(`http://localhost:3001/rickandmorty/character/${num ?? ''}`)
+		return fetch(`http://localhost:3001/rickandmorty/onsearch/${num ?? ''}`)
 			.then(resp => resp.json())
 			.then(data => {
 				const chars = characters.filter(e => e.favorite)
